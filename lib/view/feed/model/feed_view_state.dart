@@ -1,0 +1,1 @@
+enum FeedViewItems { SEARCH, CATEGORIES, PRODUCTS }

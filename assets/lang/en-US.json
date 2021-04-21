@@ -1,0 +1,15 @@
+{
+    "welcome":"Welcome,",
+    "welcomSubTitle":"Burak Imdat",
+    "category":{
+        "chair":"Chair",
+        "all":"All",
+        "sofa":"Sofa",
+        "table":"Table",
+        "lamp":"Lamp"
+    },
+    "buy":"Buy",
+    "detailProduct":"Detail Product",
+    "color":"Color"
+
+}
