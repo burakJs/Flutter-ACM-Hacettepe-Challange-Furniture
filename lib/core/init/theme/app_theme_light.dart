@@ -14,11 +14,6 @@ class AppThemeLight extends AppTheme with ILightTheme {
   // ThemeData get theme => redTheme;
   @override
   ThemeData get theme => ThemeData(
-        bottomNavigationBarTheme: ThemeData.light().bottomNavigationBarTheme.copyWith(
-              selectedItemColor: Colors.white,
-              unselectedItemColor: Colors.white,
-              backgroundColor: Colors.red,
-            ),
         colorScheme: _appColorsScheme,
         scaffoldBackgroundColor: Color(0xffE9E7EB),
         appBarTheme: ThemeData.light().appBarTheme.copyWith(
